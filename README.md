@@ -147,8 +147,6 @@ Convert the following [CodePen](https://codepen.io/jkeohan/pen/MWYEyMV?editors=1
   
 Add a click event to Buttons that lifts state to App and updates the Bulbs so that only the chosen Bulb is on and all other Bulbs are set to black. 
 
-Add a click event to smallImages that lifts state to App and updates the largeImage to be the same image src url as the iamge that was clicked on. 
-
 ## Bonus 2 - Memory Game
 
 Convert the following [CodePen](https://codepen.io/jkeohan/pen/opvVGN?editors=0010) into a React App. Create the following Components and follow the below hierarchy:
