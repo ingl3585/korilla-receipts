@@ -135,6 +135,38 @@ Add two buttons that will allow you to easily toggle between receipts that are p
 
 Add a button that will sort the receipts by name.  
 
+# Additional Bonus Labs
+
+## Bonus 1 - Traffic Light
+
+Convert the following [CodePen](https://codepen.io/jkeohan/pen/MWYEyMV?editors=1010) into a React app.  Create the following Components and follow the below hierarchy:
+
+- App
+  - Bulbs
+  - Buttons
+  
+Add a click event to Buttons that lifts state to App and updates the Bulbs so that only the chosen Bulb is on and all other Bulbs are set to black. 
+
+Add a click event to smallImages that lifts state to App and updates the largeImage to be the same image src url as the iamge that was clicked on. 
+
+## Bonus 2 - Memory Game
+
+Convert the following [CodePen](https://codepen.io/jkeohan/pen/opvVGN?editors=0010) into a React App. Create the following Components and follow the below hierarchy:
+
+- App
+  - Cards
+
+Add a click event to the Cards assigns the card its card image and lifts state to the App Component that is used to determine the winning/loosing logic. 
+
+## Bonus 3 - React Cities
+
+Convert the following [CodePen](https://codepen.io/jkeohan/pen/850f8454693590e9772f8d0f6c2f44c8) into a React app.  Create the following Components and follow the below hierarchy:
+
+- App
+  - SmallImage
+  - LargeImage
+ 
+ Add a click event to each SmallImage that lifts state to App and updates state and reassigns the image src url to the LargeImage. 
 
 ## Plagiarism
 
