@@ -26,7 +26,7 @@ Build a prototype of this short order receipts tracker.
 Follow the walkthrough and finish all parts. If you have extra time, finish the
 bonus as well.
 
-Here is a [working example](https://98mru.csb.app/) of the app, excluding the bonuses. 
+Here is a [working example](https://98mru.csb.app/) of the app (Parts 1,2,3 only). 
 
 ## Component Tree
 
