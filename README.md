@@ -133,9 +133,15 @@ Add a new form that will allow a user to add a new receipt that captures all the
 
 Add two buttons that will allow you to easily toggle between receipts that are paid and not paid.  Only display those receipts based on the users selection of those buttons
 
+Here are solutions with this bonus:
+- [Justin](https://y9m9l.csb.app/)
+
 ## Bonus: Add a button that will sort the receipts
 
 Add a button that will sort the receipts by name.  
+
+Here are solutions with this bonus:
+- [Justin](https://y9m9l.csb.app/)
 
 ## Bonus: Add some CSS
 
