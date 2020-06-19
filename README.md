@@ -17,7 +17,7 @@ Build a prototype of this short order receipts tracker.
 
 1. Fork and clone this repository.
 1. Fulfill the listed requirements.
-1. Make a pull request when you have completed the assignment.
+1. Add link to your project [here](https://docs.google.com/spreadsheets/d/1_-0iMX4Lw3vjFQgFDi1bWmxZRG51UcaHabO37cWlx34/edit?usp=sharing)
 
 ## Requirements
 
