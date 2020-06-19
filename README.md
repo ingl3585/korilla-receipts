@@ -137,6 +137,12 @@ Add two buttons that will allow you to easily toggle between receipts that are p
 
 Add a button that will sort the receipts by name.  
 
+## Bonus: Add some CSS
+
+Be creative and add some CSS.  Here are previous student examples:
+
+- [Haley](https://i56hg.csb.app/)
+
 
 ## Plagiarism
 
