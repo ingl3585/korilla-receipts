@@ -11,7 +11,9 @@ Build a prototype of this short order receipts tracker.
 
 ## Prerequisites
 
-- React
+- Creating/Updating State
+- Lifting State
+- Working with Forms
 
 ## Instructions
 
