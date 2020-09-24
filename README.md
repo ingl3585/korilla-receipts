@@ -125,10 +125,6 @@ return only those matching names.
 
 Right now, all the receipts are not paid. Add a click event to the paid field that will toggle the values true or false. 
 
-## Bonus: Add a New Receipt Form
-
-Add a new form that will allow a user to add a new receipt that captures all the info needed to display the receipt and sets the paid property to false by default. 
-
 ## Bonus: Add `Paid` and `Not Paid` buttons
 
 Add two buttons that will allow you to easily toggle between receipts that are paid and not paid.  Only display those receipts based on the users selection of those buttons
@@ -148,6 +144,10 @@ Here are solutions with this bonus:
 Be creative and add some CSS.  Here are previous student examples:
 
 - [Haley](https://i56hg.csb.app/)
+
+## Bonus: Add a New Receipt Form
+
+Add a new form that will allow a user to add a new receipt that captures all the info needed to display the receipt and sets the paid property to false by default. 
 
 
 ## Plagiarism
