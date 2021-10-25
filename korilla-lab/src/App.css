@@ -1,0 +1,102 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: linear-gradient(to right, #EDE7E3, #16697A);
+}
+
+.app-name {
+  text-align: center;
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+h2{
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+h4{
+  display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+hr {
+  border-color: black;
+}
+
+ul{
+  color: black;
+}
+
+li {
+    list-style-type: none;  
+}
+
+.search {
+  margin: 50px auto;
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 0 15%;
+}
+
+.receipt{
+  border: 1px solid black;
+  padding: 1em;
+  margin: 1em;
+  flex: 1 0 250px;
+  max-width: 300px;
+}
+
+input{
+  border: none;
+  height: 25px;
+  width: 200px;
+  margin: 20px 10px 30px 0;
+  background-color: #EDE7E3;
+  padding: 5px;
+  color: #16697A;
+}
+
+input[type="text"]{
+  padding: 2px 5px;
+}
+
+
+::placeholder {
+  color: black;
+  padding: 0 5px;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  border: none;
+  height: 35px;
+  background-color: #EDE7E3;
+  outline: none;
+}
